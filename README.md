@@ -1,2 +1,3 @@
 # Extract-table-information-from-PDF
 使用pdfplumber的方法提取PDF中的表格信息
+目前方法的限制条件是需要PDF中的表格为可以选中的形式的
